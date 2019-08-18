@@ -27,7 +27,7 @@
     <ClInclude Include="Worker0.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="pairs.cpp" />
+    <ClCompile Include="pairs.h" />
     <ClCompile Include="Sales.cpp" />
     <ClCompile Include="Stack.cpp" />
     <ClCompile Include="Studentc.cpp" />

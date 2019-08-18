@@ -53,10 +53,10 @@
     <ClCompile Include="tempmemb.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="pairs.cpp">
+    <ClCompile Include="twod.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="twod.cpp">
+    <ClCompile Include="pairs.h">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
