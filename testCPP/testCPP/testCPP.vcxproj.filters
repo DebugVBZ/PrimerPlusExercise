@@ -21,15 +21,42 @@
     <ClInclude Include="Stack.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Studentc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StudentI.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Worker0.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="arraytp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Sales.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="test.cpp">
+    <ClCompile Include="Stack.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Stack.cpp">
+    <ClCompile Include="Studentc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StudentI.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Worker0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tempmemb.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pairs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="twod.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

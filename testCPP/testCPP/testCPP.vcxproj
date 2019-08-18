@@ -19,13 +19,22 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="arraytp.h" />
     <ClInclude Include="Sales.h" />
     <ClInclude Include="Stack.h" />
+    <ClInclude Include="Studentc.h" />
+    <ClInclude Include="StudentI.h" />
+    <ClInclude Include="Worker0.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="pairs.cpp" />
     <ClCompile Include="Sales.cpp" />
     <ClCompile Include="Stack.cpp" />
-    <ClCompile Include="test.cpp" />
+    <ClCompile Include="Studentc.cpp" />
+    <ClCompile Include="StudentI.cpp" />
+    <ClCompile Include="tempmemb.cpp" />
+    <ClCompile Include="twod.cpp" />
+    <ClCompile Include="Worker0.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>

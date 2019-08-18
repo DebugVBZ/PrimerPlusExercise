@@ -1,6 +1,8 @@
-﻿  test.cpp
-  Stack.cpp
-  Sales.cpp
+﻿  twod.cpp
+  tempmemb.cpp
+  Worker0.cpp
+  Studentc.cpp
+  StudentI.cpp
   正在生成代码...
   testCPP.vcxproj -> F:\testCPP\testCPP\Debug\testCPP.exe
   testCPP.vcxproj -> F:\testCPP\testCPP\Debug\testCPP.pdb (Partial PDB)
